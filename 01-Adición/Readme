@@ -1,0 +1,44 @@
+Legajo: 1644040
+Nombre:Vega Melissa Zoe
+-----------------------
+01 – Adición
+-----------------------
+Etapa 1:
+
+Problemas:
+
+     1. Escribir el archivo readme.md que actúa como front page de la resolución que contenga lo solicitado en la sección “Carpetas para cada Resolución”, y en particular, el Análisis del Problema y el Diseño de la Solución:
+          Etapa #1: Análisis del problema: 
+		        ◦ Transcripción del problema. 
+		        ◦ Refinamiento del problema e Hipótesis de trabajo. 
+		        ◦ Modelo IPO. 
+          Etapa #2 Diseño de la Solución: 
+		        ◦ Léxico del Algoritmo. 
+		        ◦ Representación del Algoritmo 1 : 
+			          ▪ Representación visual. 
+			          ▪ Representación textual. 
+     2. Escribir, compilar, ejecutar, y probar Adición.cpp.
+
+
+Hipótesis:
+     El trabajo presenta la operación sencilla de la suma para la introducción al manejo de variables (declaración, cin, operación, cout).
+
+Modelo IPO:
+
+     ZxZ --> Suma --> Z
+
+-----------------------
+Etapa 2:
+
+Léxico:
+   
+   a,b ϵ Z
+
+Representación del Algoritmo:
+
+   Representación textual:
+        1. Se solicita un número y se guarda en la variable a
+        2. Se solicita otro número y se guarda en la variable b
+        3. Se muestra la suma de a y b.
+   Representación visual:
+
