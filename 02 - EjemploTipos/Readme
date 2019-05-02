@@ -1,0 +1,49 @@
+Legajo: 1644040
+Nombre:Vega Melissa Zoe
+-----------------------
+02 - Ejemplo Tipos
+-----------------------
+Tareas:
+
+   Este es un trabajo no estructurado, que consiste en escribir un programa que ejemplifique el uso de los tipos de datos básicos de C++ 
+   vistos en clase: bool, char, unsigned, int, double, y string.
+-----------------------
+Hipótesis:
+   El trabajo muestra el uso de las variables vistas en clase y algunas operaciones que se pueden hacer con ellas.  
+-----------------------
+Modelo IPO:
+
+   ZxZ --> Suma --> Z
+   RxR --> Suma --> R
+   ΣxΣ --> Suma --> Σ
+   Σ*xΣ* --> Concatenación --> Σ     
+-----------------------
+
+Léxico:
+   
+   a, b, c, i, j ϵ Z
+   x, y, z ϵ R
+   nombre, nombre2, apellido ϵ Σ*
+   q, r, s ϵ Σ
+   comparador ϵ B
+-----------------------
+
+Representación textual del Algoritmo:
+   
+   1. Leer a
+   2. Leer b
+   3. Declarar c
+   4. Sumar a + b y guardarlo en c
+   5. Si c es mayor a 1000 detener el programa
+   6. Leer x
+   7. Leer y
+   8. Declarar z
+   9. Sumar x+y y guardarlo en z
+   10. Declarar comparar y darle valor verdadero
+   11. Si a es menor a 10 cambiar el valor de comparar a falso
+   12. Leer q
+   13. Leer r
+   14. Declarar s
+   15. Sumar q + r y guardarlo en s
+   16. Leer i 
+   17. Leer j  //muestra el uso de unsigned.
